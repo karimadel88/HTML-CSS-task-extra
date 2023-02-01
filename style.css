@@ -89,7 +89,7 @@ header .logo h3 a {
 /* Main Section */
 main {
   width: 100%;
-  background: url("./imgs/patrick-fore-0gkw_9fy0eQ-unsplash.jpg") no-repeat;
+  background: url("/imgs/patrick-fore-0gkw_9fy0eQ-unsplash.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
